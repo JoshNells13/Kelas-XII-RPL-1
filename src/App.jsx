@@ -179,11 +179,11 @@ export default function ClassLandingPage() {
             data-aos="fade-up"
           >
             {[
-              "Joshua",
+              "Joshua Christian L",
               "Rizky",
               "Dimas",
               "Abraham",
-              "Natannanel",
+              "Natannael Nisi",
               "Bima",
               "Satria",
               "Fajar",
